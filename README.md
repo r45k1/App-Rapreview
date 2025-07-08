@@ -31,9 +31,9 @@ It provides users with access to curated music podcasts and delivers an enjoyabl
 
 ## 🎥 Video demo
 
-Poniżej krótka prezentacja działania aplikacji:
+The following is a short presentation showcasing the app's functionality
 
-https://github.com/r45k1/App-Rapreview/src/record.mp4  
+[Show Video](https://youtube.com/shorts/elSBGc3e78A?feature=share) 
 
 ---
 

@@ -1,5 +1,9 @@
 # 🎧 Kotlin/Android – Rapreview Podcast
 
+![Logo](src/logo.png)
+
+---
+
 **RapReview Podcast** is a mobile application built with Kotlin/Android.
 It provides users with access to curated music podcasts and delivers an enjoyable audio experience.
 
@@ -33,7 +37,9 @@ It provides users with access to curated music podcasts and delivers an enjoyabl
 
 The following is a short presentation showcasing the app's functionality
 
-[Show Video](https://youtube.com/shorts/elSBGc3e78A?feature=share) 
+
+[![Show Video](src/ss.png)](https://youtube.com/shorts/elSBGc3e78A?feature=share)
+
 
 ---
 
